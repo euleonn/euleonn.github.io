@@ -1,1 +1,0 @@
-import{j as e,L as t,B as s}from"./index.js";function a(){return e.jsxs(e.Fragment,{children:[e.jsx("h2",{className:"text-2xl",children:"404"}),e.jsx("p",{className:"text-sm text-[#bbb] max-w-80 text-left inline-block mb-2",children:"That page could not be found."}),e.jsx("br",{}),e.jsx(t,{to:"/",children:e.jsx(s,{children:"Back Home"})})]})}export{a as default};
